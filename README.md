@@ -26,7 +26,6 @@ Hi there!👋 I'm Minji Park
 <br>
 <br>
 <br>
-<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MANMANJIJI&show_icons=true&theme=shadow_blue)
 
