@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=005666&height=230&section=header&text=Welcome&fontSize=70&fontAlign=20&fontAlignY=50&fontColor=FFFFFF&stroke=FFFFFF&desc=MINJI's%20Github%20Profile&descSize=20&descAlign=30&descAlignY=65)  
 
 
-<a href="https://manmanjiji.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-222222?style=flat&logo=blogger&logoColor=white"/></a>
 <a href="mailto:sso06069@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-30B980?style=flat&logo=gmail&logoColor=white"/></a>  
 Hi there!👋 I'm Minji Park 
 
